@@ -2,9 +2,9 @@
 I work as developer and my area of interest covers the development of applications such as games, simulators and serious games. 
 Currently, I work with the programming languages C#, C ++ and Python, however, I also have knowledge with some other languages. And I have experience with game development tools, such as: Unity 5, Visual Studio, Unreal Engine 4, Blender and etc.
 
-- 🔭 I’m currently working on Simulation and Game Development 
-- 🌱 I’m currently learning Machinelearning and Deeplearning
+- 🔭 I’m currently working on Simulation and Game Development
 - 📫 How to reach me: Pedro-PP-MN@hotmail.com/ PedroPPMN@gmail.com
+- Master Degree and Bachelor in Computer Science, with focos on Computer Graphics.
 
 <div align="center">
   <a href="https://github.com/PedroPPMN">
@@ -15,8 +15,10 @@ Currently, I work with the programming languages C#, C ++ and Python, however, I
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
+  <img align="center" alt="Unreal" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg">
+
 </div>
   
   ##
